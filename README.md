@@ -49,8 +49,3 @@ Filter insights based on workout type, gender, age group, and experience level f
 
 ---
 
-## 📁 Files Included
-
-- `Fitness Insight Dashboard - Power BI.pbix`: Power BI report file
-- Visual snapshots in `.png` for quick reference
-
